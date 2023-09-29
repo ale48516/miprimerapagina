@@ -1,0 +1,30 @@
+* {
+  padding:0;
+    margin:0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    box-sizing: border-box;
+    text-decoration: burlywood;
+    list-style-type: lower-roman;
+  }
+header{    
+background-color: rgb(8, 8, 8);
+color:white;
+font-family:'Courier New', Courier, monospace
+margin-bottom= 20px
+padding=20px
+}
+main{ 
+background-color: rgb(60, 179, 179)
+font-family:arial
+font-size: 30px;
+}
+body{ 
+  background-color: rgb(236, 14, 14)
+    ;}
+    footer{
+     background-color:pink;
+     font-size: 12%;
+}
+#section-principal{background-color: rgb(24, 110, 110);}
+#seccion-secundaria{background-color: blueviolet;}
+ul.menu li { background-color: blue;}
